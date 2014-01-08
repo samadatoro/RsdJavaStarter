@@ -1,4 +1,4 @@
-RsdStarter
+RsdJavaStarter
 =======
 Version 0.0.1 Created by Samad Atoro and the Reliable Soft Dev team
 
